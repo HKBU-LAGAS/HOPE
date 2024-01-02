@@ -31,3 +31,17 @@ $ python3 -W ignore eval.py --algo SNEM --data cora
 ```
 Note that "--dim 5" means that the beta parameter in the paper is set to 5*k.
 The clustering results can be found in the folder "cluster".
+
+## Citation
+```
+@article{YangShi23,
+  author       = {Renchi Yang and
+                  Jieming Shi},
+  title        = {Efficient High-Quality Clustering for Large Bipartite Graphs},
+  journal      = {Proceedings of the ACM on Management of Data},
+  volume       = {2},
+  number       = {1},
+  pages        = {23:1--23:27},
+  year         = {2024}
+}
+```
